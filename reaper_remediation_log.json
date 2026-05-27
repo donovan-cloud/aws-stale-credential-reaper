@@ -1,0 +1,13 @@
+{
+    "ReaperExecutionTimestamp": "2026-05-27T14:00:00Z",
+    "ComplianceAgeLimitConfigured": 90,
+    "TotalKeysRemediated": 1,
+    "RemediationActionsLedger": [
+        {
+            "UserName": "legacy-deployment-worker",
+            "AccessKeyId": "AKIAIOSFODNN7EXAMPLE",
+            "KeyAgeDays": 142,
+            "ActionExecuted": "CHANGED_STATUS_TO_INACTIVE"
+        }
+    ]
+}
